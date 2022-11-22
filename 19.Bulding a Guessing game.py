@@ -1,4 +1,4 @@
-Secret_word ="giraffe"
+Secret_word ="Focasting"
 guess = " "
 guess_count= 0
 guess_limit= 3
